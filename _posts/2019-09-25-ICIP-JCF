@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Efficient Codebook and Factorization for Second Order Representation Learning"
+categories: publications
+authors: Pierre Jacob, David Picard, Aymeric Histace, Edouard Klein 
+venue: "International Conference on Image Processing 2019"
+arxiv: https://arxiv.org/abs/1906.01972
+image: /images/
+---
+
+To build richer representations, high order statistics have been exploited and have shown excellent performances, but they produce higher dimensional features. While this drawback has been partially addressed with factorization schemes, the original compactness of first order models has never been retrieved, or at the cost of a strong performance decrease. Our method, by jointly integrating codebook strategy to factorization scheme, is able to produce compact representations while keeping the second order performances with few additional parameters.
+
