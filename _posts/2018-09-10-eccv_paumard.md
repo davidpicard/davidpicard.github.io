@@ -4,7 +4,7 @@ title: "Image Reassembly Combining Deep Learning and Shortest Path Problem"
 categories: publications
 authors: Marie-Morgane PaumardDavid Picard, Hedi Tabia
 venue: "European Conference on Computer Vision"
-date: "Septmeber 2019"
+date: "Septmeber 2018"
 arxiv: https://arxiv.org/abs/1809.00898
 image: /images/eccv_puz.jpg
 doi: https://doi.org/10.1007/978-3-030-01231-1_10
