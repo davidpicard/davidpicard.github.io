@@ -6,7 +6,7 @@ authors: Micael Carvalho, Rémi Cadène, David Picard, Laure Soulier, Nicolas Th
 venue: "ACM SIGIR Conference on Research and Development in Information Retrieval"
 date: "July 2018"
 arxiv: https://arxiv.org/abs/1804.11146
-image: /images/sigi18.jpg
+image: /images/sigir18.jpg
 doi: https://doi.org/10.1145/3209978.3210036
 ---
 
