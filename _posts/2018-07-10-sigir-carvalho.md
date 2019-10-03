@@ -4,7 +4,7 @@ title: "Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Ima
 categories: publications
 authors: Micael Carvalho, Rémi Cadène, David Picard, Laure Soulier, Nicolas Thome, Matthieu Cord
 venue: "ACM SIGIR Conference on Research and Development in Information Retrieval"
-date: "July 2019"
+date: "July 2018"
 arxiv: https://arxiv.org/abs/1804.11146
 image: /images/sigi18.jpg
 doi: https://doi.org/10.1145/3209978.3210036
