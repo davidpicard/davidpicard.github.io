@@ -84,6 +84,9 @@
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
               {% endif %}
+              {% if post.doi %}
+              <a href="{{post.doi}}">doi</a> /
+              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
