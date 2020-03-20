@@ -6,6 +6,7 @@ authors:  Diogo Luvizon, David Picard, Hedi Tabia
 venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
 date: "February 2020"
 image: /images/tpami_luvizon.jpg
+arxiv: https://arxiv.org/abs/1912.08077
 doi: https://doi.org/10.1109/TPAMI.2020.2976014
 ---
 
