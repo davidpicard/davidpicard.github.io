@@ -3,7 +3,7 @@ layout: post
 title: "Consensus-based optimization for 3D human pose estimation in camera coordinates "
 categories: publications
 authors: Diogo C Luvizon, David Picard, Hedi Tabia
-venue: "International Conference on Computer Vision"
+venue: "International Journal of Computer Vision"
 arxiv: https://arxiv.org/abs/1911.09245
 code: https://github.com/dluvizon/3d-pose-consensus
 doi: https://doi.org/10.1007/s11263-021-01570-9
