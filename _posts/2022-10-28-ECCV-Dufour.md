@@ -5,7 +5,7 @@ categories: publications
 authors: Nicolas Dufour, David Picard, Vicky Kalogeiton
 venue: "ECCV 2022"
 arxiv: https://arxiv.org/abs/2210.04883
-code:https://github.com/nicolas-dufour/SCAM
+code: https://github.com/nicolas-dufour/SCAM
 image: /images/scam.jpg
 ---
 
