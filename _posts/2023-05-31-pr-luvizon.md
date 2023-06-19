@@ -4,7 +4,7 @@ title: "SSP-Net: Scalable sequential pyramid networks for real-Time 3D human pos
 categories: publications
 authors:  Diogo C Luvizon, Hedi Tabia, David Picard
 venue: "Pattern Recognition"
-arxiv: [https://arxiv.org/abs/2210.02231](https://arxiv.org/abs/2009.01998)
+arxiv: https://arxiv.org/abs/2009.01998
 image: /images/sppnet.jpg
 ---
 
