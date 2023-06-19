@@ -3,7 +3,7 @@ layout: post
 title: "Unveiling the Latent Space Geometry of Push-Forward Generative Models"
 categories: publications
 authors: Thibaut Issenhuth, Ugo Tanielian, Jeremie Mary, David Picard 
-venue: "ICML 2023"
+venue: "ICML"
 arxiv: https://arxiv.org/abs/2207.10541
 image: /images/simplicial.jpg
 ---
