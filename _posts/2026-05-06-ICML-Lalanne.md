@@ -4,6 +4,7 @@ title: "Random Process Flow Matching: Generative Implicit Representations of Mul
 categories: publications
 authors: Julien Lalanne, David Picard, Lionel Boillot, Lina-María Guayacan-Carrillo, Leon Barens, Jean-Michel Pereira
 venue: "ICML"
+arxiv: https://arxiv.org/abs/2605.28625
 image: /images/rpflow.png
 ---
 
