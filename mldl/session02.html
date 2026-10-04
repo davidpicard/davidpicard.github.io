@@ -1359,8 +1359,8 @@ David Picard
 </div>
 <p><em>Fitting the same noisy cubic with <span class="math inline">\(p=1,2,3,5,7\)</span>. <span class="math inline">\(p=3\)</span> is the truth. Watch the extra powers (<span class="math inline">\(\times\)</span> = true coefficient).</em></p>
 </section>
-<section id="degree-vs.-overfitting-live" class="slide level2 figure-slide">
-<h2>Degree vs. overfitting, live</h2>
+<section id="degree-vs.-overfitting-1" class="slide level2 figure-slide">
+<h2>Degree vs. overfitting</h2>
 <div class="widget-wrap-col">
 <div class="mldl-widget" data-mldl-widget="poly-fit" data-width="640" data-height="400" data-degree="3">
   <canvas></canvas>
@@ -1412,8 +1412,8 @@ x^{\otimes p} = x \otimes \cdots \otimes x \quad (p \text{ times}), \qquad
 <li>Almost shift-invariant except for the <span class="math inline">\(x+x&#39;\)</span> term</li>
 </ul>
 </section>
-<section id="sine-overfitting-live" class="slide level2 figure-slide">
-<h2>Sine overfitting, live</h2>
+<section id="sine-overfitting" class="slide level2 figure-slide">
+<h2>Sine overfitting</h2>
 <div class="widget-wrap-col">
 <div class="mldl-widget" data-mldl-widget="sine-fit" data-width="640" data-height="400" data-num-freq="2">
   <canvas></canvas>
@@ -1572,7 +1572,6 @@ w_i = \tilde{w}_i \max\left(0,\ 1 - \frac{\lambda S_i^{-2}}{2|\tilde{w}_i|}\righ
   <label class="mldl-k-label">nonzero: <span class="mldl-nz-value">20/20</span></label>
 </div>
 </div>
-<p><em>20 candidate frequencies, only 2 of them real (the slow wave and its ripple). Unlike Ridge, coefficients snap to exactly zero one at a time as <span class="math inline">\(\lambda\)</span> grows. Around <span class="math inline">\(\lambda\approx0.1\)</span> only <strong>two</strong> survive: <span class="math inline">\(k{=}2\)</span> and <span class="math inline">\(k{=}10\)</span> — exactly the two true frequencies, recovered out of 20 candidates. A cleaner sparsity story than the polynomial case, where the surviving term isn’t so interpretable.</em></p>
 </section>
 <section id="elastic-net" class="slide level2">
 <h2>Elastic net</h2>
@@ -1992,10 +1991,7 @@ h(x) = \sum_{i=1}^n \alpha_i y_i\, k(x,x_i) + b
 <section id="why-stop-at-svm" class="slide level2">
 <h2>Why stop at SVM?</h2>
 <ul>
-<li>SVM’s support-vector sparsity came from one specific problem (hinge loss
-<ul>
-<li><span class="math inline">\(\ell_2\)</span> penalty). Is that a coincidence, or a general phenomenon?</li>
-</ul></li>
+<li>SVM’s support-vector sparsity came from one specific problem (hinge loss + <span class="math inline">\(\ell_2\)</span> penalty). Is that a coincidence, or a general phenomenon?</li>
 <li>It’s general: <strong>representer theorems</strong> say that <em>any</em> regularized ERM solution is confined to the span of the training data, regardless of the loss</li>
 </ul>
 </section>
